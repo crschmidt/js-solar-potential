@@ -89,3 +89,4 @@ To fix any lint issues, use `npm run format` to automatically format all the cod
 - [Tailwind](https://tailwindcss.com): CSS framework for design and styling.
 - [ESLint](https://eslint.org): Statically analyze code to quickly find problems.
 - [Prettier](https://prettier.io): Opinionated code formatter.
+ 
